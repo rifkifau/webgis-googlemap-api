@@ -1,0 +1,68 @@
+.tampilan{
+	width: 100%;
+	margin: 0 auto;
+}
+.tampilan .header{
+	background: #90EE90;
+	padding: 1px 0;
+}
+
+.teks-atas {
+	color: #111; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 25px; 
+	font-weight: bold; 
+	line-height: 1; 
+	text-align: center; 
+}
+
+.body-content{
+	height: 550px;
+}
+
+.tampilan .body-content .sidebar{
+	background: #F8F8FF;
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.judul-sidebar { 
+	color: #111; 
+	font-family: 'Raleway',sans-serif; 
+	font-size: 20px; 
+	font-weight: 500; 
+	margin: 0 0 3px;
+	padding: 1px;
+}
+
+.teks-sidebar { 
+	color: #111; 
+	font-family: 'Raleway',sans-serif; 
+	font-size: 16px; 
+	font-weight: 500; 
+	line-height: 20px;
+	margin: 0 0 24px;
+	padding: 1px;
+}
+
+.tampilan .body-content #googleMap{
+	float: left;
+	height: 100%;
+	width: 80%;	
+}
+.tampilan .footer{
+	background: #DCDCDC;
+	padding: 1px 0;
+}
+
+.teks-bawah { 
+	color: #685206; 
+	font-family: 'Helvetica Neue', sans-serif; 
+	font-size: 14px; 
+	line-height: 1px;
+	margin: 0 0 1x; 
+	text-align: justify; 
+	text-justify: inter-word; 
+}
+
